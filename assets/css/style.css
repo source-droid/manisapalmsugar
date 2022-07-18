@@ -1548,6 +1548,11 @@ height: 512px;
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
   background: #d3af71;
 }
+
+#footer .footer-top .footer-logo img{
+  height: 50%;
+
+}
 #footer .copyright {
   text-align: center;
   padding-top: 30px;
