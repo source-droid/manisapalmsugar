@@ -1264,6 +1264,9 @@ height: 512px;
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.contact {
+  background: #000000;
+}
 .contact .info {
   width: 100%;
 }
@@ -1550,7 +1553,7 @@ height: 512px;
 }
 
 #footer .footer-top .footer-logo img{
-  height: 50%;
+  width: 100%;
 
 }
 #footer .copyright {
