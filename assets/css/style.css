@@ -1022,22 +1022,22 @@ section {
 .book-a-table .php-email-form .form-group {
   padding-bottom: 8px;
 }
-.book-a-table .php-email-form .validate {
+/* .book-a-table .php-email-form .validate {
   display: none;
   color: red;
   margin: 0 0 15px 0;
   font-weight: 400;
   font-size: 13px;
-}
-.book-a-table .php-email-form .error-message {
+} */
+/* .book-a-table .php-email-form .error-message {
   display: none;
   color: #fff;
   background: #ed3c0d;
   text-align: left;
   padding: 15px;
   font-weight: 600;
-}
-.book-a-table .php-email-form .error-message br + br {
+} */
+/* .book-a-table .php-email-form .error-message br + br {
   margin-top: 25px;
 }
 .book-a-table .php-email-form .sent-message {
@@ -1047,13 +1047,13 @@ section {
   text-align: center;
   padding: 15px;
   font-weight: 600;
-}
-.book-a-table .php-email-form .loading {
+} */
+/* .book-a-table .php-email-form .loading {
   display: none;
   text-align: center;
   padding: 15px;
-}
-.book-a-table .php-email-form .loading:before {
+} */
+/* .book-a-table .php-email-form .loading:before {
   content: "";
   display: inline-block;
   border-radius: 50%;
@@ -1064,7 +1064,7 @@ section {
   border-top-color: #1a1814;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
-}
+} */
 .book-a-table .php-email-form input, .book-a-table .php-email-form textarea {
   border-radius: 0;
   box-shadow: none;
